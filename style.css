@@ -1,0 +1,57 @@
+
+*{
+    margin: 0px auto;
+}
+
+body{
+    height:130vh;
+    width:100%;
+}
+.container{
+    text-align: center;
+    margin-top:15px 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.calculator{
+    /* background-color: black;
+    background-image: url("paper.gif"); */
+    padding:20px 0px;
+    border-radius:20px;
+    display: inline-block;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    background: radial-gradient(1.5em 6.28571em at 1.95em, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.25) 50%, rgba(255, 255, 255, 0.25) 55%, rgba(255, 255, 255, 0) 55%) 0 0, radial-gradient(1.5em 6.28571em at -0.45em, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.25) 50%, rgba(255, 255, 255, 0.25) 55%, rgba(255, 255, 255, 0) 55%) 1.5em 5.5em, radial-gradient(2.3em 4.57143em at 2.99em, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.3) 50%, rgba(255, 255, 255, 0.3) 55%, rgba(255, 255, 255, 0) 55%) 0 0, radial-gradient(2.3em 4.57143em at -0.69em, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.3) 50%, rgba(255, 255, 255, 0.3) 55%, rgba(255, 255, 255, 0) 55%) 2.3em 4em, radial-gradient(3.5em 6.28571em at 4.55em, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.25) 50%, rgba(255, 255, 255, 0.25) 55%, rgba(255, 255, 255, 0) 55%) 0 0, radial-gradient(3.5em 6.28571em at -1.05em, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.25) 50%, rgba(255, 255, 255, 0.25) 55%, rgba(255, 255, 255, 0) 55%) 3.5em 5.5em, radial-gradient(#15ffa5, #00ced1);
+    background-color: mediumspringgreen;
+    background-size: 1.5em 11em, 1.5em 11em, 2.3em 8em, 2.3em 8em, 3.5em 11em, 3.5em 11em, 100% 100%;
+    background-repeat: repeat;
+}
+
+
+.lbl-marbtm{
+    margin-bottom: 30px;
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    height:95px;
+    width:75%;
+    border: 1px solid purple;
+    border-radius: 15px;
+    font-size: 30px;
+    background-image: url("escheresque.png");
+    background-repeat: repeat;
+}
+
+button{
+    font-size:25px;
+    /* background-color: teal; */
+    width:60px;
+    height:60px;
+    border-radius:40px;
+    border:0.3px solid black;
+    margin:5px;
+}
+
