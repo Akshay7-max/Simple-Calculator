@@ -4,8 +4,14 @@
 }
 
 body{
-    height:130vh;
+    height: 70vh;
     width:100%;
+    background-image: url('images/sunny.jpg');
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: top center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-size: auto;
 }
 .container{
     text-align: center;
