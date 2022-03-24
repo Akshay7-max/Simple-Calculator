@@ -6,7 +6,7 @@
 body{
     height: 70vh;
     width:100%;
-    background-image: url('Images/background.png');
+    background-image: url('images/background.png');
     overflow: hidden;
     background-repeat: no-repeat;
     background-position: top center;
